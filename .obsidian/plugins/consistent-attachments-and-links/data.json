@@ -1,0 +1,20 @@
+{
+  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "consistencyReportFile": "consistency-report.md",
+  "emptyFolderBehavior": "DeleteWithEmptyParents",
+  "excludePaths": [],
+  "excludePathsFromAttachmentCollecting": [],
+  "includePaths": [],
+  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
+  "shouldAddCommandsToFileMenu": true,
+  "shouldChangeNoteBacklinksDisplayText": true,
+  "shouldCollectAttachmentsAutomatically": false,
+  "shouldDeleteAttachmentsWithNote": false,
+  "shouldDeleteExistingFilesWhenMovingNote": false,
+  "shouldMoveAttachmentsWithNote": false,
+  "shouldShowBackupWarning": false,
+  "shouldUpdateLinks": true,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ]
+}

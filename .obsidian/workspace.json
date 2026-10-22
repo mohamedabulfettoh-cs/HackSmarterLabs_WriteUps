@@ -184,16 +184,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "b16f3a5615679610",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,7 +214,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3321d87a152d086b",
+  "active": "45f0ea54e9676f7f",
   "lastOpenFiles": [
     "attachments/Pasted image 20261022224442.png",
     "Casino.md",

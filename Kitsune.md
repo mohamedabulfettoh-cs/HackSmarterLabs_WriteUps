@@ -137,7 +137,7 @@ sudo apt install passwordsafe
 
 We can run `pwsafe logins.psafe3` to enter our master password `hellokitty` then we can access the passwords from the UI via the edit feature.
 
-![[Pasted image 20261022224442.png]]
+![Password Safe credentials](attachments/Pasted%20image%2020261022224442.png)
 
 So I recovered three passwords `R@nch2026!` for the user `ranch`, they had an email point to the `kitsune.local` domain, meaning they were highly likely a user on the Active Directory environment, then `I#zmE{z[n3HM` as the duo login \[admin\] password, I was unsure what that was so I just added it for potential spraying. The last password was `a%KlRhqbuRgL` for the root SQL user.
 
